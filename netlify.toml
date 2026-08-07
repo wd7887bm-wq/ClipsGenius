@@ -1,0 +1,4 @@
+# Use this config for production
+[build]
+  command = "npm run build"
+  publish = ".next"
